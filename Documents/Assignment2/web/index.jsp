@@ -23,9 +23,7 @@
         <% 
             User customer = (User) session.getAttribute("customer");
         %>
-        <header>
-            <h1>IoTBay</h1>
-        </header>
+       
         
         <img src="images/PCBROS.png" alt="IoT">
         
@@ -35,5 +33,7 @@
         </div>
         <jsp:include page="/ConnServlet" flush="true"/>
     </body>
+    
+    <script>src="main.js"></script>
 </html>
 
