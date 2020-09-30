@@ -27,7 +27,7 @@
             <h1>IoTBay</h1>
         </header>
         
-        <img src="images/IoT.png" alt="IoT">
+        <img src="images/PCBROS.png" alt="IoT">
         
         <div style="text-align: center; margin: 5px">
             <a class="button" href="login.jsp">Login</a>
