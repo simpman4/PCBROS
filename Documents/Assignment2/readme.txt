@@ -1,4 +1,4 @@
-IoTBay Web Application
+PCBROS Web Application
 ----------------------
 This project is required to be opened in NetBeans IDE 8.2. Once opened you will need to create a local database with the
 following information:
